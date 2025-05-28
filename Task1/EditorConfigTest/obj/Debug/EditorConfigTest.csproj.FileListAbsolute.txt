@@ -1,0 +1,7 @@
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\bin\Debug\EditorConfigTest.exe.config
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\bin\Debug\EditorConfigTest.exe
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\bin\Debug\EditorConfigTest.pdb
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\obj\Debug\EditorConfigTest.csproj.AssemblyReference.cache
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\obj\Debug\EditorConfigTest.csproj.CoreCompileInputs.cache
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\obj\Debug\EditorConfigTest.exe
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task1\EditorConfigTest\obj\Debug\EditorConfigTest.pdb
