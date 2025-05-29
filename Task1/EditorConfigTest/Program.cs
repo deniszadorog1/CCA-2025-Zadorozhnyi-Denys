@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace EditorConfigTest
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {                                        
-        }
-    }
-}                  
-        
+ internal class Program
+ {
+  static void Main(string[] args)
+  {
+
+
+  }
+ }
+}

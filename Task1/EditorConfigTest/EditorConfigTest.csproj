@@ -50,5 +50,8 @@
     <Compile Include=".editorconfig" />
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="loomLink.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
