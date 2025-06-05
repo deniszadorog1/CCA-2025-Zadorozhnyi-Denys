@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task1\\editorconfigtest\\loomlink.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|solutionrelative:editorconfigtest\\loomlink.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task1\\editorconfigtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|solutionrelative:editorconfigtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\editorconfigtest\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
       "RelativeMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|solutionrelative:editorconfigtest\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\editorconfigtest\\loomlink.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|solutionrelative:editorconfigtest\\loomlink.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F85F4E-9CCA-4314-AAB5-07737628A8D5}|EditorConfigTest\\EditorConfigTest.csproj|B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\editorconfigtest\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 400,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "loomLink.txt",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\loomLink.txt",
               "RelativeDocumentMoniker": "EditorConfigTest\\loomLink.txt",
@@ -46,20 +46,18 @@
               "RelativeToolTip": "EditorConfigTest\\loomLink.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-29T20:28:40.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T20:28:40.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": ".editorconfig",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig",
               "RelativeDocumentMoniker": "EditorConfigTest\\.editorconfig",
-              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig",
-              "RelativeToolTip": "EditorConfigTest\\.editorconfig",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig*",
+              "RelativeToolTip": "EditorConfigTest\\.editorconfig*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-29T18:52:47.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T18:52:47.215Z"
             },
             {
               "$type": "Document",
@@ -71,8 +69,7 @@
               "RelativeToolTip": "EditorConfigTest\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-29T18:39:17.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T18:39:17.259Z"
             },
             {
               "$type": "Document",
@@ -80,22 +77,21 @@
               "Title": ".editorconfig",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig",
               "RelativeDocumentMoniker": "EditorConfigTest\\.editorconfig",
-              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig",
-              "RelativeToolTip": "EditorConfigTest\\.editorconfig",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\.editorconfig*",
+              "RelativeToolTip": "EditorConfigTest\\.editorconfig*",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAOwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-28T22:40:18.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T22:40:18.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\Program.cs",
               "RelativeDocumentMoniker": "EditorConfigTest\\Program.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task1\\EditorConfigTest\\Program.cs",
               "RelativeToolTip": "EditorConfigTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T22:15:57.35Z",
               "EditorCaption": ""

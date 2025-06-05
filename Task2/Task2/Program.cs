@@ -4,17 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EditorConfigTest
+namespace Task2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            const int counter = 100;
-            for(int i = 0; i < counter; i++)
-            {
-
-            }
         }
     }
 }
