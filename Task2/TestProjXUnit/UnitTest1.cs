@@ -12,11 +12,19 @@ namespace TestProjXUnit
         }
 
         [Fact]
-        public void Abstract()
+        public void AbstractTest()
         {
             var calc = new Calculator();
             int result = calc.Minus(5, 3);
             Assert.Equal(2, result);
+        }
+
+        [Fact]
+        public void MultiplicationTest()
+        {
+            var calc = new Calculator();
+            int result = calc.Minus(2, 3);
+            Assert.Equal(6, result);
         }
     }
 }
