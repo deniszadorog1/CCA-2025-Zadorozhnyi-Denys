@@ -10,13 +10,13 @@ namespace TestProjXUnit
             var result = calculator.Addition(2, 3);
             Assert.Equal(5, result);
         }
-/*  
+
         [Fact]
-        public void Add_NegativeNumbers_ReturnsCorrectSum()
+        public void Abstract()
         {
             var calc = new Calculator();
-            int result = calc.Add(-2, -3);
-            Assert.Equal(-5, result);
-        }*/
+            int result = calc.Minus(5, 3);
+            Assert.Equal(2, result);
+        }
     }
 }
