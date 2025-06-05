@@ -1,0 +1,12 @@
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\bin\Debug\net8.0\Task2Lib.deps.json
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\bin\Debug\net8.0\Task2Lib.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\bin\Debug\net8.0\Task2Lib.pdb
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.AssemblyInfoInputs.cache
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.AssemblyInfo.cs
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.csproj.CoreCompileInputs.cache
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.sourcelink.json
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\refint\Task2Lib.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\Task2Lib.pdb
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\Task2Lib\obj\Debug\net8.0\ref\Task2Lib.dll

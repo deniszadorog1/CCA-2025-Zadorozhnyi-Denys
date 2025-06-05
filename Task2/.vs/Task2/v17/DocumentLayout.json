@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBFF3736-B0EA-4B28-BEB0-DDFB450D4A23}|Task2\\Task2.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBFF3736-B0EA-4B28-BEB0-DDFB450D4A23}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECBD798A-AF17-471F-A4D7-951DD15129AE}|TestProjXUnit\\TestProjXUnit.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task2\\testprojxunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBD798A-AF17-471F-A4D7-951DD15129AE}|TestProjXUnit\\TestProjXUnit.csproj|solutionrelative:testprojxunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task2\\task2lib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|solutionrelative:task2lib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task2\\task2lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|solutionrelative:task2lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task2\\task2lib\\task2lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{207121FB-78B1-47BD-A61F-9D6F92DBD383}|Task2Lib\\Task2Lib.csproj|solutionrelative:task2lib\\task2lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 400,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Calculator.cs",
+              "RelativeDocumentMoniker": "Task2Lib\\Calculator.cs",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Calculator.cs",
+              "RelativeToolTip": "Task2Lib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:11:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task2Lib",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Task2Lib.csproj",
+              "RelativeDocumentMoniker": "Task2Lib\\Task2Lib.csproj",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Task2Lib.csproj",
+              "RelativeToolTip": "Task2Lib\\Task2Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T21:11:30.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2\\Program.cs",
-              "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2\\Program.cs",
-              "RelativeToolTip": "Task2\\Program.cs",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\TestProjXUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjXUnit\\UnitTest1.cs",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\TestProjXUnit\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjXUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:02:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Class1.cs",
+              "RelativeDocumentMoniker": "Task2Lib\\Class1.cs",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Class1.cs",
+              "RelativeToolTip": "Task2Lib\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:29:02.311Z",
+              "WhenOpened": "2025-06-05T21:01:47.314Z",
               "EditorCaption": ""
             }
           ]
