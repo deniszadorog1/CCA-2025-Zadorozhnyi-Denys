@@ -3,14 +3,14 @@ namespace TestProjXUnit
 {
     public class UnitTest1
     {
-/*        [Fact]
+      [Fact]
         public void Test1()
         {
             var calculator = new Calculator();
             var result = calculator.Add(2, 3);
             Assert.Equal(5, result);
         }
-
+/*  
         [Fact]
         public void Add_NegativeNumbers_ReturnsCorrectSum()
         {

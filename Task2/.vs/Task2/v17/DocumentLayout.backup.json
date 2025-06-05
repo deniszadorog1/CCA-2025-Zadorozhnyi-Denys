@@ -42,21 +42,19 @@
               "RelativeToolTip": "Task2Lib\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:11:47.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:11:47.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Task2Lib",
+              "Title": "Task2Lib.csproj",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Task2Lib.csproj",
               "RelativeDocumentMoniker": "Task2Lib\\Task2Lib.csproj",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Task2Lib.csproj",
               "RelativeToolTip": "Task2Lib\\Task2Lib.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T21:11:30.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:11:30.213Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "TestProjXUnit\\UnitTest1.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\TestProjXUnit\\UnitTest1.cs",
               "RelativeToolTip": "TestProjXUnit\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T21:02:29.678Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Task2Lib\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:01:47.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:01:47.314Z"
             }
           ]
         }
