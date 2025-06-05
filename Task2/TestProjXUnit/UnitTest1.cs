@@ -23,7 +23,7 @@ namespace TestProjXUnit
         public void MultiplicationTest()
         {
             var calc = new Calculator();
-            int result = calc.Minus(2, 3);
+            int result = calc.Multiplication(2, 3);
             Assert.Equal(6, result);
         }
     }
