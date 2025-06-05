@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Task2Lib
 {
-/*    public class Calculator
+    public class Calculator
     {
         public int Add(int a, int b) => a + b;
-    }*/
+    }
 }
