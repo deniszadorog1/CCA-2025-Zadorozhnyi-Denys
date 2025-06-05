@@ -8,6 +8,6 @@ namespace Task2Lib
 {
     public class Calculator
     {
-        public int Add(int a, int b) => a + b;
+        public int Addition(int a, int b) => a + b;
     }
 }

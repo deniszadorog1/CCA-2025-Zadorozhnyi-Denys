@@ -7,7 +7,7 @@ namespace TestProjXUnit
         public void Test1()
         {
             var calculator = new Calculator();
-            var result = calculator.Add(2, 3);
+            var result = calculator.Addition(2, 3);
             Assert.Equal(5, result);
         }
 /*  
