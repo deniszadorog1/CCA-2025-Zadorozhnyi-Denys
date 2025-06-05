@@ -31,7 +31,7 @@ namespace TestProjXUnit
         public void DivisionTest()
         {
             var calc = new Calculator();
-            int result = calc.Division(6, 2);
+            double result = calc.Division(6, 2);
             Assert.Equal(3, result);
         }
     }
