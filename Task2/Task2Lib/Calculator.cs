@@ -15,9 +15,6 @@ namespace Task2Lib
 
         public int Multiplication(int a, int b) => a * b;
 
-        public double Division(int a, int b)
-        {
-            return a / b;
-        }
+        public double Division(int a, int b) => a / b;
     }
 }

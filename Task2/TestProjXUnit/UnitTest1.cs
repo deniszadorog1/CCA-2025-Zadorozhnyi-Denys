@@ -3,7 +3,7 @@ namespace TestProjXUnit
 {
     public class UnitTest1
     {
-      [Fact]
+        [Fact]
         public void Test1()
         {
             var calculator = new Calculator();
