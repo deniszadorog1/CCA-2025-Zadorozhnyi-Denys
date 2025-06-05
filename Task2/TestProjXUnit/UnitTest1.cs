@@ -26,5 +26,13 @@ namespace TestProjXUnit
             int result = calc.Multiplication(2, 3);
             Assert.Equal(6, result);
         }
+
+        [Fact]
+        public void DivisionTest()
+        {
+            var calc = new Calculator();
+            int result = calc.Division(6, 2);
+            Assert.Equal(3, result);
+        }
     }
 }
