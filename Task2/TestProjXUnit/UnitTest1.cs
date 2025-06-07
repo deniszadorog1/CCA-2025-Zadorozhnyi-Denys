@@ -34,5 +34,14 @@ namespace TestProjXUnit
             double result = calc.Division(6, 2);
             Assert.Equal(3, result);
         }
+
+        [Fact]
+        public void ConcatTest()
+        {
+            var calc = new Calculator();
+            string result = calc.ConcatAction("asd", "qwe");
+            Assert.Equal("asdqwe", result);
+        }
+
     }
 }

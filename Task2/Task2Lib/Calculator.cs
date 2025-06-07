@@ -16,5 +16,12 @@ namespace Task2Lib
         public int Multiplication(int a, int b) => a * b;
 
         public double Division(int a, int b) => a / b;
+
+        public string ConcatAction(string a, string b)
+        {
+            return string.Concat(a, b);
+        }
+
+
     }
 }

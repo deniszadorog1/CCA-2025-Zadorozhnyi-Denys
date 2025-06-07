@@ -101,3 +101,12 @@ B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\obj\Debug\net8.0\refint
 B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\obj\Debug\net8.0\TestProjXUnit.pdb
 B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\obj\Debug\net8.0\TestProjXUnit.genruntimeconfig.cache
 B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\obj\Debug\net8.0\ref\TestProjXUnit.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\GitHub\CCA-2025-Zadorozhnyi-Denys\Task2\TestProjXUnit\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
