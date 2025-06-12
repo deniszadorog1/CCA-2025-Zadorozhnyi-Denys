@@ -1,14 +1,22 @@
-﻿namespace Task3
+﻿using Task3.Interfaces;
+
+namespace Task3
 {
-    internal class ReportGenerator
+    public class ReportGenerator
     {
-        private readonly DatabaseService _db = new DatabaseService();
-        private readonly FileLogger _logger = new FileLogger();
+        private readonly IDataProvider _dataProvider;
+        private readonly ILogger _logger;
+
+        public ReportGenerator(IDataProvider dataProvider, ILogger logger)
+        {
+            _dataProvider = dataProvider;
+            _logger = logger;
+        }
 
         public void Generate()
         {
-            var data = _db.GetData();
-            _logger.Log("Report created.");
+            var data = _dataProvider.GetData();
+            _logger.Log("Report generated");
         }
     }
 }

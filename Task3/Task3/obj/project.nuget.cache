@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "N3TQSLFOVso=",
+  "dgSpecHash": "rTo9uANK17Y=",
   "success": true,
   "projectFilePath": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Task3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-preview.5.25277.114\\microsoft.extensions.dependencyinjection.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.5.25277.114\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.5.25277.114.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    public class DatabaseService
+    public class DatabaseService : Interfaces.IDataProvider
     {
         public DatabaseService()
         {
