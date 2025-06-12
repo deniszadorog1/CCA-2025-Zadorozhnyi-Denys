@@ -3,36 +3,43 @@
   "WorkspaceRootPath": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\videolink.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\videolink.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\reportgeneratorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\reportgeneratorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\interfaces\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\interfaces\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|b:\\github\\cca-2025-zadorozhnyi-denys\\task3\\task3\\interfaces\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0634445-FFFF-4807-BDFF-8EE2B41E72E6}|Task3\\Task3.csproj|solutionrelative:task3\\interfaces\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\denis\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\videoLink.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +49,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataProvider.cs",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Interfaces\\IDataProvider.cs",
+              "RelativeDocumentMoniker": "Task3\\Interfaces\\IDataProvider.cs",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Interfaces\\IDataProvider.cs",
+              "RelativeToolTip": "Task3\\Interfaces\\IDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:27:55.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "videoLink.txt",
+              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\videoLink.txt",
+              "RelativeDocumentMoniker": "Task3\\videoLink.txt",
+              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\videoLink.txt",
+              "RelativeToolTip": "Task3\\videoLink.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-12T17:48:33.541Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "videoLink.txt",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\videoLink.txt",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\videoLink.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-12T15:50:53.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,40 +101,40 @@
               "RelativeDocumentMoniker": "Task3\\ReportGeneratorFactory.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\ReportGeneratorFactory.cs",
               "RelativeToolTip": "Task3\\ReportGeneratorFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:14:13.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T20:47:32.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReportGenerator.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\ReportGenerator.cs",
               "RelativeDocumentMoniker": "Task3\\ReportGenerator.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\ReportGenerator.cs",
               "RelativeToolTip": "Task3\\ReportGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:49:15.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FileLogger.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\FileLogger.cs",
               "RelativeDocumentMoniker": "Task3\\FileLogger.cs",
@@ -102,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ILogger.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Interfaces\\ILogger.cs",
               "RelativeDocumentMoniker": "Task3\\Interfaces\\ILogger.cs",
@@ -128,20 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDataProvider.cs",
-              "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Interfaces\\IDataProvider.cs",
-              "RelativeDocumentMoniker": "Task3\\Interfaces\\IDataProvider.cs",
-              "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\Interfaces\\IDataProvider.cs",
-              "RelativeToolTip": "Task3\\Interfaces\\IDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:27:55.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task3\\Task3\\DatabaseService.cs",
               "RelativeDocumentMoniker": "Task3\\DatabaseService.cs",
