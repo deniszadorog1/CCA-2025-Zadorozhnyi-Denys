@@ -20,6 +20,7 @@ namespace Task2Lib
         public string ConcatAction(string a, string b)
         {
             return string.Concat(a, b);
+            int asd;
         }
 
 

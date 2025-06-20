@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Task2Lib\\Calculator.cs",
               "ToolTip": "B:\\GitHub\\CCA-2025-Zadorozhnyi-Denys\\Task2\\Task2Lib\\Calculator.cs",
               "RelativeToolTip": "Task2Lib\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T21:11:47.254Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Task2Lib\\Task2Lib.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T21:11:30.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:11:30.213Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "TestProjXUnit\\UnitTest1.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:02:29.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:02:29.678Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Task2Lib\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:01:47.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:01:47.314Z"
             }
           ]
         }

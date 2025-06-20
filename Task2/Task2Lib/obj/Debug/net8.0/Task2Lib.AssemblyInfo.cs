@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c3383f110756696fd395a07a4678d226cefdee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2211cac8edd8bff318cbf4f191fb8e04a62ad588")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
